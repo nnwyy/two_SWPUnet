@@ -1,0 +1,9 @@
+Datasets can be downloaded at:
+
+https://drive.google.com/drive/folders/1k_0d37k8Wf572-9NU16IqXXfoFn7MJJ_?usp=sharing
+https://pan.baidu.com/s/1FFeKh7wF8mEZFb3JhBwO8g?pwd=xdah 
+
+Use numpy.load to load the .npy file
+The first channel is the input
+The second channel is the information for Stage-2
+The last channel is the label
